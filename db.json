@@ -1,0 +1,41 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan ",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "quiere comer chope",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Antonio",
+      "empresa": "PartyK",
+      "email": "mrgarrido@gmail.com",
+      "telefono": "6761238545",
+      "notas": "esto es solo el inicio",
+      "id": 6
+    }
+  ]
+}
